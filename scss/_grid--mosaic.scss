@@ -1,0 +1,10 @@
+.mosaic--of--images{
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, minmax(100px,auto));
+  background-color:white;
+}
+
+.mosaic--of--images img{
+  width:100%;
+}
