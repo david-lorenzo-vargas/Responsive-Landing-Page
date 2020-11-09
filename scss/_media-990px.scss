@@ -1,0 +1,35 @@
+@media (max-width:990px){
+  header{
+    flex-direction:column;
+    padding:1em;
+  }
+
+  header p{
+    text-align:center;
+  }
+
+
+  .hero--section{
+    padding-top:10em;
+  }
+
+  .mosaic__boton{
+    padding:.3em 3em;
+  }
+
+  .image__five{
+    max-height:224px;
+  }
+
+  .footer__div{
+    margin:0 .5em;
+  }
+
+  .email{
+    margin:0;
+  }
+
+  .btn-primary{
+    margin:0 0 1em 0;
+  }
+}
