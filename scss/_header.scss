@@ -1,0 +1,45 @@
+header{
+  display:flex;
+  justify-content:space-between;
+  padding:2em;
+  position:fixed;
+  z-index:50;
+  background-color:#E3E3E3;
+  margin:0;
+  width:100%;
+}
+
+
+
+header nav{
+  padding:0.5em;
+}
+
+header ul{
+  margin:0;
+  padding:0;
+  list-style-type:none;
+  display:flex;
+}
+
+header li{
+  margin:1em;
+}
+
+header a{
+  text-decoration:none;
+  color:black;
+  opacity:0.8;
+  padding:0.3em 1em;
+}
+
+header a:hover{
+  background-color:rgba(0,0,0,0.3);
+  color:white;
+}
+
+.active{
+  font-weight:700;
+  border-bottom:1px solid black;
+}
+
