@@ -1,0 +1,30 @@
+@media (max-width:470px){
+
+  header a{
+    padding:0.3em .4em;
+  }
+
+  .hero--section{
+    height:60vh;
+    background-color:rgba(255,255,255,0.3);
+    background-blend-mode: screen;
+  }
+
+
+  .hero--section h1{
+    font-size:1.8rem;
+  }
+
+  .presentation img{
+    width:40%;
+  }
+
+  footer{
+    display:flex;
+  flex-direction:column;
+  }
+
+  .footer__div{
+    width:60%;
+  }
+}
