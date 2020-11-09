@@ -1,0 +1,79 @@
+footer{
+  background-color:rgba(0,0,0,.8);
+  margin:0;
+  display:flex;
+  justify-content:space-between;
+  padding:2em 3em;
+}
+
+.footer__div{
+  width:30%;
+}
+
+footer h3{
+  margin:0;
+  color:white;
+  opacity:0.8;
+}
+
+.footer__title{
+  font-size:1.5rem;
+  letter-spacing:2px;
+}
+
+.footer__img{
+  width:30%;
+  border-radius:50%;
+  margin:.5em 0 .5em 0;
+}
+
+.footer__text{
+  color:white;
+  opacity:0.5;
+  max-width:20ch;
+}
+
+.footer__bold{
+  color:white;
+  opacity:0.5;
+  max-width:20ch;
+  font-weight:700;
+}
+
+footer span{
+  font-style:italic;
+  font-weight:700;
+}
+
+.email{
+  padding:.5em .8em;
+  border:0;
+  margin-bottom:1em;
+}
+
+::placeholder{
+    text-transform:uppercase;
+}
+.btn-primary{
+  background-color: rgb(0,0,0);
+  color:white;
+  opacity:0.8;
+  border:0;
+  padding:.5em .8em;
+  cursor:pointer;
+  text-transform:uppercase;
+  font-weight:700;
+
+  &:hover{
+    background-color:rgb(255,255,255);
+    color:black;
+    opacity:.4;
+  }
+}
+
+.social a{
+  text-decoration:none;
+  color:white;
+  opacity:.5;
+  font-size:1.2rem;
+}
