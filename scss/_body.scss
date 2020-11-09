@@ -1,0 +1,16 @@
+body{
+  margin:0;
+  background-color:#E3E3E3;
+  font-family: 'PT Sans', sans-serif;
+}
+
+*, *::before, *::after{
+  box-sizing:border-box;
+}
+
+
+img{
+  max-width:100%;
+  height:auto;
+  display:block;
+}
