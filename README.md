@@ -1,17 +1,19 @@
-# Responsive-Landing-Page
-Fully responsive landing page with HTML 5 &amp; SCSS, display GRID for mosaic building
+# LANDING PAGE
 
-Desktop size
-![landing-page-desktop-1](https://user-images.githubusercontent.com/72414745/99596403-7c5b8b80-29f6-11eb-83bd-b6ce80376c41.jpg)
-![landing-page-desktop-2](https://user-images.githubusercontent.com/72414745/99596405-7cf42200-29f6-11eb-96f1-45942458859f.jpg)
-![landing-page-desktop-3](https://user-images.githubusercontent.com/72414745/99596406-7cf42200-29f6-11eb-9ec1-feda1d0e10f2.jpg)
+## Description
+Fully responsive landing page
 
-Tablet size <br>
-![landing-page-tablet-1](https://user-images.githubusercontent.com/72414745/99596534-c0e72700-29f6-11eb-8593-0333861cf851.jpg)
-![landing-page-tablet-2](https://user-images.githubusercontent.com/72414745/99596535-c17fbd80-29f6-11eb-8b0e-43ce1e846c12.jpg)
-![landing-page-tablet-3](https://user-images.githubusercontent.com/72414745/99596536-c17fbd80-29f6-11eb-98d1-120dd9a61933.jpg)
+## Technologies
+HTML, SCSS(grid and flexbox), @mediaqueries
 
-Phone size <br>
-![landing-page-phone-1](https://user-images.githubusercontent.com/72414745/99596683-07d51c80-29f7-11eb-9430-4bd31cfbc119.jpg)
-![landing-page-phone-2](https://user-images.githubusercontent.com/72414745/99596685-086db300-29f7-11eb-8df9-52d2dc17583d.jpg)
-![landing-page-phone-3](https://user-images.githubusercontent.com/72414745/99596686-086db300-29f7-11eb-9ee3-8a3366332eff.jpg)
+## Demo
+
+Desktop view
+![landing-page1](https://user-images.githubusercontent.com/72414745/101024260-1e8d7e80-3574-11eb-8425-859753554e62.gif)
+
+Tablet view
+![landing-page2](https://user-images.githubusercontent.com/72414745/101024274-277e5000-3574-11eb-8a63-4dc777d05693.gif)
+
+Phone view
+![landing-page3](https://user-images.githubusercontent.com/72414745/101024288-2c430400-3574-11eb-9efd-18e6f106c2e8.gif)
+
